@@ -45,7 +45,3 @@ if st.button("ランダムなグラフを表示"):
     st.line_chart(decimal_list)
 
 
-if st.button("過去の結果"):
-    # グラフの表示
-    st.pyplot(fig)
-
