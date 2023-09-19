@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import random
-import matplotlib.pyplot as plt  # matplotlibをインポート
+import matplotlib.pyplot as plt  
 import os
 
 # ポート番号の選択肢
