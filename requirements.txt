@@ -1,6 +1,1 @@
-streamlit
-pandas
-random
-openpyxl
-matplotlib.pyplot
-os
+openpyxl==3.0.9
