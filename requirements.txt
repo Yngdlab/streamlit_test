@@ -1,0 +1,6 @@
+streamlit
+pandas
+random
+openpyxl
+matplotlib.pyplot
+os
