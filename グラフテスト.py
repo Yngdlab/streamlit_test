@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import random
-pip install serial
 
 # ポート番号の選択肢
 port_options = ['COM1', 'COM2', 'COM3', 'COM4', 'COM5', 'COM6', 'COM7', 'COM8', 'COM9', 'COM10']
